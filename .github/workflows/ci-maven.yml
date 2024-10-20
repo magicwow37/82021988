@@ -1,3 +1,4 @@
+# CI yml 파일
 name: github action CI
 
 on: workflow_dispatch

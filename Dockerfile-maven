@@ -1,4 +1,5 @@
 # FROM bellsoft/liberica-openjdk-alpine:17
+# 이미 openjdk slim 기반으로 작성됨
 FROM cepgbaseacr.azurecr.io/docker.io/openjdk:17-slim
 
 VOLUME /tmp
